@@ -1,8 +1,13 @@
-# Задание 2. Познакомиться с методом кластеризации K-mean с помощью пакета sklearn. 
+## Task 2. Get Familiar with the K-means Clustering Method using the `sklearn` Package
 
-### Для выполнения задания используется набор данных из предыдущей лр.
+#### For this task, use the dataset from the previous lab assignment.
 
-1. К текущему датасету необходимо добавить новый атрибут
-2. "Причесать" датасет: удалить выбросы и дубли, обработать пропущенные значения, найти кривые данные и т.п.
-3. Построить графики зависимости одной переменной от другой (plt.scatter), описать какие кластеры (группы) вы видите. 
-4. Построить несколько разных графиков, найти ярковыраженные группы.
+1. Add a new attribute to the current dataset.
+
+2. "Clean up" the dataset:
+* Remove outliers and duplicates.
+* Handle missing values.
+
+3. Plot scatter plots showing the relationship between one variable and another (using `plt.scatter`).
+
+4. Create several different plots.

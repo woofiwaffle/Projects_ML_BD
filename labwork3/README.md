@@ -1,12 +1,12 @@
-# Задание 3. Исследование алгоритмов классификации
+## Task 3. Investigating Classification Algorithms
 
-### Задание состоит из последовательного выполнения следующих подзадач.
+#### The task consists of the following subtasks:
 
-1. Необходимо оценить и сравнить результаты классификации, используя следующие алгоритмы классификации:
-* kNN 
-* дерево решений
+1. Evaluate and compare the classification results using the following classification algorithms:
+* k-Nearest Neighbors (kNN)
+* Decision Tree
 
-2. Сравните полученные результаты с помощью различных метрик оценки качества:
-* Accuracy 
-* Presicion, Recall, F-measure 
-* ROC
+2. Compare the obtained results using various evaluation metrics:
+* Accuracy
+* Precision, Recall, F-measure
+* ROC (Receiver Operating Characteristic curve)
